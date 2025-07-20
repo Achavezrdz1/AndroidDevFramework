@@ -7,7 +7,7 @@
 * [xUtils 例子](https://github.com/androidKaKa/AndroidDevFramwork/tree/master/xUtils/xUtilsDemo)
 * [xUtils 概要](https://github.com/androidKaKa/AndroidDevFramwork/blob/master/xUtils/README.md)
 
-
+intall pkg Android 15 V1.V35.0
 
 
 
